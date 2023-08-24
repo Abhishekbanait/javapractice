@@ -1,0 +1,2 @@
+# javapractice
+Java practice repo
